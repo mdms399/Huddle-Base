@@ -87,6 +87,7 @@ body {
     display: inline-flex;
     justify-content: center;
     align-items: center;
+    color: #FFF;
 }
 
 .footer div ul li a:hover {
